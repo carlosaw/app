@@ -4,8 +4,7 @@
 ```
 npm install
 ```
-```
-https://www.youtube.com/watch?v=-Mrtebh2wYo
+
 ### Compiles and hot-reloads for development
 ```
 npm run serve
@@ -18,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+```
+https://www.youtube.com/watch?v=-Mrtebh2wYo
